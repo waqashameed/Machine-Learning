@@ -1,7 +1,7 @@
 # Machine-Learning
 
 
-This repository contains the jupyter notebooks of different machine learning algorithms.
+This repository contains jupyter notebooks of different machine learning algorithms.
 The notebook contains explanation of the code as well.
 
 Requirements:
